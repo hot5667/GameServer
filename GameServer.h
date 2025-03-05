@@ -3,12 +3,11 @@
 #include <netinet/in.h>
 #include <unistd.h>
 
-
 #include "Player.h"
 
 class GameServer {
 private:
-    static const int PORT = 8080;
+    static const int PORT = 69600;
     int server_fd;
     sockaddr_in address{};
 

@@ -1,7 +1,3 @@
-//
-// Created by 김도현 on 25. 3. 5.
-//
-
 #ifndef PLAYER_H
 #define PLAYER_H
 

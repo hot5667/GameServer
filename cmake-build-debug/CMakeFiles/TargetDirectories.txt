@@ -1,3 +1,4 @@
 /Users/kimdohyeon/CLionProjects/Server/cmake-build-debug/CMakeFiles/Server.dir
+/Users/kimdohyeon/CLionProjects/Server/cmake-build-debug/CMakeFiles/GameServerTest.dir
 /Users/kimdohyeon/CLionProjects/Server/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/kimdohyeon/CLionProjects/Server/cmake-build-debug/CMakeFiles/rebuild_cache.dir

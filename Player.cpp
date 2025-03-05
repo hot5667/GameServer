@@ -26,3 +26,6 @@ int Player::getExperience() const {return experience;}
 
 void Player::setName(const string& playerName) {name = playerName;}
 void Player::setJob(const string& playerJob) {job = playerJob;}
+
+// 레이스 켄데션, 데드락 행인 상태
+// 좀비 - zombie
