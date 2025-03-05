@@ -1,0 +1,15 @@
+# ninja log v6
+321	352	1741126150480236143	Server	92a0d301236ee530
+4	321	1741126150163015011	CMakeFiles/Server.dir/main.cpp.o	96ed980cc62ed898
+2	47	1741135975694810116	build.ninja	24c5a84607ef5cd1
+3	443	1741135975704257760	CMakeFiles/Server.dir/Player.cpp.o	b1171299a409adbc
+3	453	1741135975703938465	CMakeFiles/Server.dir/main.cpp.o	96ed980cc62ed898
+4	331	1741136165255731396	CMakeFiles/Server.dir/GameServer.cpp.o	3fcf070ba8e46ff9
+4	346	1741136271059368075	CMakeFiles/Server.dir/GameServer.cpp.o	3fcf070ba8e46ff9
+4	335	1741136637603682211	CMakeFiles/Server.dir/main.cpp.o	96ed980cc62ed898
+5	355	1741136637604137256	CMakeFiles/Server.dir/GameServer.cpp.o	3fcf070ba8e46ff9
+4	374	1741162227733082168	CMakeFiles/Server.dir/GameServer.cpp.o	3fcf070ba8e46ff9
+374	472	1741162228102381150	Server	fef398b2491ec616
+4	306	1741162470315930974	CMakeFiles/Server.dir/main.cpp.o	96ed980cc62ed898
+4	371	1741162470316247683	CMakeFiles/Server.dir/GameServer.cpp.o	3fcf070ba8e46ff9
+371	402	1741162470683341203	Server	fef398b2491ec616
